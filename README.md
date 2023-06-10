@@ -25,12 +25,13 @@
 <h3 align="center"> SOME ATTRIBUTES </h3>
 
 ```css
-#pyMelo { 
+#Melo { 
   position: CATANIA; 
   height: 175; 
   display: he/him; 
   background: NO Breaks 🔨; 
-  color: purple
+  color: purple;
+  animation : lifting weights 7200s
 }
 ```
 
