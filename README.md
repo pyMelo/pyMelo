@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Database / Data Visualization**
 
 - 📫 How to reach me **carmelofuccio22@gmail.com**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pymelo&show_icons=true&locale=en" alt="pymelo" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
