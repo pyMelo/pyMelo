@@ -9,7 +9,7 @@
 <img align ="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 - 🔭 I’m currently working on **my career**
 
-- 🌱 I’m currently learning **Database / Data Visualization**
+- 🌱 I’m currently learning **Django & Data visualization**
 
 - 📫 How to reach me **carmelofuccio22@gmail.com**
 
