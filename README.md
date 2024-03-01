@@ -1,13 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Melo</h1>
+<h1 align="center">Hi 👋, I'm Melo (24) </h1>
 <h3 align="center">Computer Science Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pymelo&label=Profile%20views&color=0e75b6&style=flat" alt="pymelo" /> </p>
 
 
 <img align ="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-- 🔭 I’m currently working on **my career**
+
+- 🔭 I’m currently stuyding **Master's degree at University of Catania (LM-18)** 
 
 - 🌱 I’m currently learning **Django & Data visualization**
 
