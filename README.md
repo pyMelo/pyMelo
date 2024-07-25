@@ -8,9 +8,9 @@
 
 <img align ="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently studying for a Master's degree at the University of Catania (LM-18).** 
+- 🔭 I’m currently studying for a **Master's degree at the University of Catania (LM-18).**
 
-- 🌱 I’m currently learning **Blockchain, Criptography, Security and some Machine Learning**
+- 🌱 I’m currently learning **Blockchain, Cryptography and some Machine Learning**
 
 - 📫 How to reach me **carmelofuccio22@gmail.com**
 
