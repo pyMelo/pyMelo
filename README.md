@@ -8,7 +8,7 @@
 
 <img align ="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently searching for a job**
+- 🔭 I’m currently **searching for a job**
 
 - 🌱 I’m currently learning **Next.js, Supabase, TypeScript and some web3 libraries**
 
