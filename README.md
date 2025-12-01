@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **searching for a job**
 
-- 🌱 I’m currently learning **Next.js, Supabase, TypeScript and some web3 libraries**
+- 🌱 I’m currently learning **K8S, Terraform, Google Cloud and Airflow**
 
 - 📫 How to reach me **carmelofuccio22@gmail.com**
 
